@@ -2,7 +2,7 @@
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ebertti/django-registration-bootstrap/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
-##Simple sample using bootstrap from twitter in forms of Django
+## Simple sample using bootstrap from twitter in forms of Django
 
 Using Bootstrap from Twitter version 3.0.3
 
